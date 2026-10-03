@@ -17,7 +17,7 @@ URL: {[URL](https://docs.kalshi.com/getting_started/historical_data)}
 
 Size: {50000} rows, {50} columns
 
-{Historical Kalshi trade data: volume of settled markets, completed trades, and fulfilled orders. Live endpoints return current and recent data: open and recently closed markets, active orders, and recent fills.}
+{Historical Kalshi trade data: volume of settled markets, completed trades, and fulfilled orders. Live endpoints return current and recent data: open and recently closed markets, active orders, and recent fills. I am hoping to pull the data and get recent consumer trends from the past 10 years with location, size of bets, and consumer demographics. I am interested in seeing if there are trends / events that can connect to the patterns like a big advertisement or launch of deal (first $200 bet is covered), something like that.}
 
 
 ### Data Source 2: {Population Trends in Internet Sports Gambling}
