@@ -1,0 +1,266 @@
+iso3,country,population
+AFE,Africa Eastern and Southern,463076637.0
+AFW,Africa Western and Central,316156999.0
+ARB,Arab World,322628451.0
+CSS,Caribbean small states,4049468.0
+CEB,Central Europe and the Baltics,106041911.0
+EAR,Early-demographic dividend,2738846905.0
+EAS,East Asia & Pacific,2134573057.0
+EAP,East Asia & Pacific (excluding high income),1898853723.0
+TEA,East Asia & Pacific (IDA & IBRD countries),1874487158.0
+EMU,Euro area,341556724.0
+ECS,Europe & Central Asia,875563919.0
+ECA,Europe & Central Asia (excluding high income),223360135.0
+TEC,Europe & Central Asia (IDA & IBRD countries),438333196.0
+EUU,European Union,435789139.0
+FCV,"Fragility, Conflict, and Violence (FCV) situations",705268238.0
+HPC,Heavily indebted poor countries (HIPC),554927452.0
+,High income,1289125857.0
+IBD,IBRD only,4214082145.0
+IBT,IDA & IBRD total,5492049553.0
+IDB,IDA blend,447132945.0
+IDX,IDA only,830834463.0
+IDA,IDA total,1277967408.0
+LTE,Late-demographic dividend,2112603351.0
+LCN,Latin America & Caribbean,555120780.0
+LAC,Latin America & Caribbean (excluding high income),520792375.0
+TLA,Latin America & the Caribbean (IDA & IBRD countries),539188798.0
+LDC,Least developed countries: UN classification,760310134.0
+LMY,Low & middle income,5286284172.0
+,Low income,444311036.0
+,Lower middle income,2173648512.0
+MEA,"Middle East, North Africa, Afghanistan & Pakistan",556210211.0
+MNA,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)",517240777.0
+TMN,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)",513920381.0
+MIC,Middle income,4841973136.0
+NAC,North America,327822042.0
+OED,OECD members,1246656490.0
+OSS,Other small states,10479844.0
+PSS,Pacific island small states,2170029.0
+PST,Post-demographic dividend,1047140108.0
+PRE,Pre-demographic dividend,650889143.0
+SST,Small states,16699341.0
+SAS,South Asia,1346886384.0
+TSA,South Asia (IDA & IBRD),1346886384.0
+SSF,Sub-Saharan Africa,779233636.0
+SSA,Sub-Saharan Africa (excluding high income),779150778.0
+TSS,Sub-Saharan Africa (IDA & IBRD countries),779233636.0
+,Upper middle income,2668324624.0
+WLD,World,6575410029.0
+AFG,Afghanistan,24404567.0
+ALB,Albania,3011487.0
+DZA,Algeria,33109249.0
+ASM,American Samoa,56617.0
+AND,Andorra,77421.0
+AGO,Angola,19291161.0
+ATG,Antigua and Barbuda,79611.0
+ARG,Argentina,39216789.0
+ARM,Armenia,3146400.0
+ABW,Aruba,97635.0
+AUS,Australia,20176844.0
+AUT,Austria,8227829.0
+AZE,Azerbaijan,8391850.0
+BHS,"Bahamas, The",343894.0
+BHR,Bahrain,888822.0
+BGD,Bangladesh,144715786.0
+BRB,Barbados,268706.0
+BLR,Belarus,9663915.0
+BEL,Belgium,10478617.0
+BLZ,Belize,279731.0
+BEN,Benin,8426144.0
+BMU,Bermuda,62711.0
+BTN,Bhutan,661865.0
+BOL,Bolivia,9360754.0
+BIH,Bosnia and Herzegovina,4096493.0
+BWA,Botswana,1839877.0
+BRA,Brazil,184688101.0
+VGB,British Virgin Islands,23665.0
+BRN,Brunei Darussalam,358916.0
+BGR,Bulgaria,7658972.0
+BFA,Burkina Faso,13932123.0
+BDI,Burundi,7587299.0
+CPV,Cabo Verde,485115.0
+KHM,Cambodia,13439202.0
+CMR,Cameroon,17074594.0
+CAN,Canada,32242732.0
+CYM,Cayman Islands,46788.0
+CAF,Central African Republic,4288810.0
+TCD,Chad,10328092.0
+CHI,Channel Islands,153126.0
+CHL,Chile,16348778.0
+CHN,China,1303720000.0
+COL,Colombia,42128977.0
+COM,Comoros,592677.0
+COD,"Congo, Dem. Rep.",58775724.0
+COG,"Congo, Rep.",3696393.0
+CRI,Costa Rica,4261240.0
+CIV,Cote d'Ivoire,20068458.0
+HRV,Croatia,4310145.0
+CUB,Cuba,11262554.0
+CUW,Curacao,137658.0
+CYP,Cyprus,1036151.0
+CZE,Czechia,10211216.0
+DNK,Denmark,5419432.0
+DJI,Djibouti,839167.0
+DMA,Dominica,68734.0
+DOM,Dominican Republic,9225034.0
+ECU,Ecuador,13846163.0
+EGY,"Egypt, Arab Rep.",81101004.0
+SLV,El Salvador,6005578.0
+GNQ,Equatorial Guinea,947367.0
+ERI,Eritrea,2661215.0
+EST,Estonia,1354775.0
+SWZ,Eswatini,1079022.0
+ETH,Ethiopia,78367470.0
+FRO,Faroe Islands,48359.0
+FJI,Fiji,882379.0
+FIN,Finland,5246096.0
+FRA,France,63180854.0
+PYF,French Polynesia,259507.0
+GAB,Gabon,1463495.0
+GMB,"Gambia, The",1667037.0
+GEO,Georgia,3902469.0
+DEU,Germany,82469422.0
+GHA,Ghana,22449438.0
+GIB,Gibraltar,29163.0
+GRC,Greece,10987314.0
+GRL,Greenland,56935.0
+GRD,Grenada,109734.0
+GUM,Guam,164365.0
+GTM,Guatemala,13087629.0
+GIN,Guinea,9245844.0
+GNB,Guinea-Bissau,1381585.0
+GUY,Guyana,760914.0
+HTI,Haiti,9061273.0
+HND,Honduras,7478355.0
+HKG,"Hong Kong SAR, China",6813200.0
+HUN,Hungary,10087065.0
+ISL,Iceland,296734.0
+IND,India,1154676322.0
+IDN,Indonesia,230871650.0
+IRN,"Iran, Islamic Rep.",71828455.0
+IRQ,Iraq,28407448.0
+IRL,Ireland,4159914.0
+IMN,Isle of Man,79516.0
+ISR,Israel,6930100.0
+ITA,Italy,58166682.0
+JAM,Jamaica,2687066.0
+JPN,Japan,127773000.0
+JOR,Jordan,6029587.0
+KAZ,Kazakhstan,15968117.0
+KEN,Kenya,35796484.0
+KIR,Kiribati,98035.0
+PRK,"Korea, Dem. People's Rep.",24396433.0
+KOR,"Korea, Rep.",48184561.0
+XKX,Kosovo,1818354.0
+KWT,Kuwait,2236788.0
+KGZ,Kyrgyz Republic,5162640.0
+LAO,Lao PDR,5869523.0
+LVA,Latvia,2238799.0
+LBN,Lebanon,4671102.0
+LSO,Lesotho,1953076.0
+LBR,Liberia,3301015.0
+LBY,Libya,5858798.0
+LIE,Liechtenstein,34753.0
+LTU,Lithuania,3322528.0
+LUX,Luxembourg,465158.0
+MAC,"Macao SAR, China",473500.0
+MDG,Madagascar,19159707.0
+MWI,Malawi,12840031.0
+MYS,Malaysia,25836071.0
+MDV,Maldives,306429.0
+MLI,Mali,13538647.0
+MLT,Malta,403834.0
+MHL,Marshall Islands,51906.0
+MRT,Mauritania,2939059.0
+MUS,Mauritius,1228254.0
+MEX,Mexico,105811504.0
+FSM,"Micronesia, Fed. Sts.",111412.0
+MDA,Moldova,2888985.0
+MCO,Monaco,32210.0
+MNG,Mongolia,2536407.0
+MNE,Montenegro,614261.0
+MAR,Morocco,30358144.0
+MOZ,Mozambique,20304569.0
+MMR,Myanmar,47438365.0
+NAM,Namibia,1966582.0
+NRU,Naoero,10049.0
+NPL,Nepal,26309458.0
+NLD,Netherlands,16319868.0
+NCL,New Caledonia,244381.0
+NZL,New Zealand,4133900.0
+NIC,Nicaragua,5342105.0
+NER,Niger,13756192.0
+NGA,Nigeria,145017253.0
+MKD,North Macedonia,2005330.0
+MNP,Northern Mariana Islands,62354.0
+NOR,Norway,4623291.0
+OMN,Oman,2459802.0
+PAK,Pakistan,175453212.0
+PLW,Palau,19819.0
+PAN,Panama,3313026.0
+PNG,Papua New Guinea,6535905.0
+PRY,Paraguay,5448097.0
+PER,Peru,28101180.0
+PHL,Philippines,88015962.0
+POL,Poland,38165445.0
+PRT,Portugal,10503330.0
+PRI,Puerto Rico (US),3821362.0
+QAT,Qatar,825408.0
+ROU,Romania,21319685.0
+RUS,Russian Federation,143518814.0
+RWA,Rwanda,9054528.0
+WSM,Samoa,186978.0
+SMR,San Marino,29836.0
+STP,Sao Tome and Principe,161639.0
+SAU,Saudi Arabia,20559890.0
+SEN,Senegal,11235472.0
+SRB,Serbia,7440769.0
+SYC,Seychelles,82858.0
+SLE,Sierra Leone,5501712.0
+SGP,Singapore,4265762.0
+SXM,Sint Maarten (Dutch part),32057.0
+SVK,Slovak Republic,5372807.0
+SVN,Slovenia,2000474.0
+SLB,Solomon Islands,483080.0
+SOM,"Somalia, Fed. Rep.",10644228.0
+ZAF,South Africa,49490033.0
+SSD,South Sudan,7590143.0
+ESP,Spain,43653155.0
+LKA,Sri Lanka,20216524.0
+KNA,St. Kitts and Nevis,46437.0
+LCA,St. Lucia,165450.0
+MAF,St. Martin (French part),33928.0
+VCT,St. Vincent and the Grenadines,112450.0
+SDN,Sudan,31262444.0
+SUR,Suriname,519313.0
+SWE,Sweden,9029572.0
+CHE,Switzerland,7437115.0
+SYR,Syrian Arab Republic,18814091.0
+TJK,Tajikistan,6924720.0
+TZA,Tanzania,39182076.0
+THA,Thailand,66017420.0
+TLS,Timor-Leste,948311.0
+TGO,Togo,5413154.0
+TON,Tonga,105671.0
+TTO,Trinidad and Tobago,1294494.0
+TUN,Tunisia,10255472.0
+TUR,Turkiye,69329557.0
+TKM,Turkmenistan,5052257.0
+TCA,Turks and Caicos Islands,23988.0
+TUV,Tuvalu,9940.0
+UGA,Uganda,27963289.0
+UKR,Ukraine,47585556.0
+ARE,United Arab Emirates,4664790.0
+GBR,United Kingdom,60401206.0
+USA,United States,295516599.0
+URY,Uruguay,3285771.0
+UZB,Uzbekistan,26356975.0
+VUT,Vanuatu,210760.0
+VEN,"Venezuela, RB",26785804.0
+VNM,Viet Nam,81088313.0
+VIR,Virgin Islands (U.S.),108453.0
+PSE,West Bank and Gaza,3320396.0
+YEM,"Yemen, Rep.",22790085.0
+ZMB,Zambia,11718819.0
+ZWE,Zimbabwe,12483432.0
