@@ -43,8 +43,21 @@ I imagine a static poster or infographic to display my charts, I think I will ha
 visualizations that go in order by subject size: first worldwide betting, then Europe,
 then Germany. 
 
+## Questions
+
+1. I originally wanted to show gambling patterns domestically but then came across this already cleaned global dataset -
+   however there are a lot of countries that are missing / not included. I'm worried that if there is no context for the
+   data it will look like Germany has a super super big gambling problem (most entries), would it be better to constantly
+   emphasize the proportions (gamblers out of total gamblers in the country, gamblers out of total gamblers in the sample)
+   or is a long-ish disclaimer at the beginning of my final infographic preferred? 
+
+
+
 
 ______________________________________________________________________________________________
+
+
+
 
 
 # Milestone 1
@@ -76,8 +89,4 @@ Size: {46,339} rows, {22} columns
 
 ## Questions
 
-{Numbered list of questions for course staff, if any.}
 
-1. 
-2.
-3.
